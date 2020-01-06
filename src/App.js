@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Grid from './Components/Grid.component';
 
 function App() {
   return (
     <div className="App">
-      <h1>BattleShip</h1>
+      <h1 className="title">BattleShip</h1>
     </div>
   );
 }
